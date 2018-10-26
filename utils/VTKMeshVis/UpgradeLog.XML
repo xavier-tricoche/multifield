@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="VTKMeshVis">
+</Property><Property Name="Solution File" Value="D:\Projects\VTKMeshVis\VTKMeshVis.sln">
+</Property><Property Name="Date" Value="Wednesday, June 20, 2012">
+</Property><Property Name="Time" Value="14:11 PM">
+</Property></Properties><Event ErrorLevel="0" Project="VTKMeshVis" Source="VTKMeshVis\VTKMeshVis.vcproj" Description="Converting project file 'D:\Projects\VTKMeshVis\VTKMeshVis\VTKMeshVis.vcproj'.">
+</Event><Event ErrorLevel="1" Project="VTKMeshVis" Source="VTKMeshVis\VTKMeshVis.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="VTKMeshVis" Source="VTKMeshVis\VTKMeshVis.vcproj" Description="Done converting to new project file 'D:\Projects\VTKMeshVis\VTKMeshVis\VTKMeshVis.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="VTKMeshVis" Source="VTKMeshVis\VTKMeshVis.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="VTKMeshVis.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="VTKMeshVis.sln" Description="Converted">
+</Event></UpgradeLog>
